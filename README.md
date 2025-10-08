@@ -43,6 +43,7 @@ Esto hizo posible caracterizar con gran precisión espesores de películas delga
 - Década de 1930-1950: se desarrollan los primeros magnetómetros (basados en balanza o inducción).
 
 >La historia de los magnetómetros para la exploración magnética es corta, tuvo sus inicios a mediados de la Segunda Guerra Mundial con la invención de magnetómetros electrónicos. El avance tecnológico generado en tiempos de guerra facilitó el desarrollo de la magnetometría ya que los componentes de los magnetómetros, como chips, baterías y electrónica en general, se fue reduciendo tanto de tamaño como de precio al mismo tiempo que aumentaban en precisión (Reeves, 2005). Este desarrollo trajo consigo también la creación del magnetómetro de precesión de protones, el magnetómetro tipo fluxgate, y eventualmente de los magnetómetros de bombeo óptico, por lo que uno de los primeros usos de la magnetometría  seria con fines militares utilizándolos para la búsqueda de submarinos enemigos con el fin de destruirlos, convirtiéndose así en los primeros levantamientos aeromagnéticos.
+>The first magnetometer is thought to be the version designed by German scientist Carl Friedrich Gauss in 1832, a primitive device made up of a permanent magnet suspended in midair by a fiber. Although it lacked sophistication, he was able to use the model to formulate his own law of magnetism.
 
 - 1955: se crea el magnetómetro de muestra vibrante (VSM) por Simon Foner (MIT), permitiendo medir magnetización con gran precisión.
 
