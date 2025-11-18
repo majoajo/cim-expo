@@ -57,7 +57,7 @@ Esto hizo posible caracterizar con gran precisión espesores de películas delga
 
 mostrar una línea del tiempo con los hitos más importantes (Faraday → Curie → Weiss → Foner). 
 
-
+# OPTICA
 
 ## 1 y 2. Importancia de la caracterización óptica
 
