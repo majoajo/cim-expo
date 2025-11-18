@@ -78,30 +78,28 @@ mostrar una línea del tiempo con los hitos más importantes (Faraday → Curie 
 
 
 
+<br> https://archive.org/details/electricityindis00cole/page/10/mode/2up
 
- <br> https://archive.org/details/electricityindis00cole/page/10/mode/2up
+https://www.are.na/block/1374356  
+<img src="https://github.com/user-attachments/assets/a8f619c3-8f24-491b-ab27-928c614386e4" width="300" />
 
-https://www.are.na/block/1374356
-<img width="890" height="658" alt="image" src="https://github.com/user-attachments/assets/a8f619c3-8f24-491b-ab27-928c614386e4" />
+Electrical Discharge, 1909.  Illustrative diagram depicting electrical discharge
 
-Electrical Discharge, 1909.⠀⁠ ⠀⁠ Illustrative diagram depicting electrical discharge
+https://www.cosmos.so/e/466322668  
+<img src="https://github.com/user-attachments/assets/f4f83a1b-7fa6-4680-a098-a38152b350d3" width="300" />
 
-https://www.cosmos.so/e/466322668
+<br> experimento de las dos rendijas de young y el espejo de Lloyd
 
-<img width="720" height="890" alt="image" src="https://github.com/user-attachments/assets/f4f83a1b-7fa6-4680-a098-a38152b350d3" />
+https://es.wikipedia.org/wiki/Interferometr%C3%ADa#Interfer%C3%B3metros_de_divisi%C3%B3n_de_frente_de_onda  
+<img src="https://github.com/user-attachments/assets/5da16525-1cea-46d7-b7f3-d76246d4c6e0" width="300" />
 
- <br> experimento de las dos rendijas de young y el espejo de Lloyd
-
- https://es.wikipedia.org/wiki/Interferometr%C3%ADa#Interfer%C3%B3metros_de_divisi%C3%B3n_de_frente_de_onda
-<img width="1103" height="366" alt="image" src="https://github.com/user-attachments/assets/5da16525-1cea-46d7-b7f3-d76246d4c6e0" />
-
- <br>Experimento de Faraday que muestra la inducción entre dos bobinas: La batería (derecha) aporta la corriente eléctrica que fluye a través de una pequeña bobina (A), creando un campo magnético. 
-
- <img width="500" height="378" alt="image" src="https://github.com/user-attachments/assets/9c9e4d85-a363-49d4-9b72-e580dacca771" />
+<br> Experimento de Faraday que muestra la inducción entre dos bobinas: La batería (derecha) aporta la corriente eléctrica que fluye a través de una pequeña bobina (A), creando un campo magnético.  
+<img src="https://github.com/user-attachments/assets/9c9e4d85-a363-49d4-9b72-e580dacca771" width="300" />
 
 <br> https://av3aerovisual.com/tipos-de-magnetometros-usos-y-caracteristicas/
 
-Tipos de magnetómetros más comunes basados en diferentes principios físicos. (Macintyre, 1999)
-<img width="882" height="792" alt="image" src="https://github.com/user-attachments/assets/82029880-6239-45ff-a499-a56887201cb4" />
+Tipos de magnetómetros más comunes basados en diferentes principios físicos. (Macintyre, 1999)  
+<img src="https://github.com/user-attachments/assets/82029880-6239-45ff-a499-a56887201cb4" width="300" />
+
 
 
