@@ -227,11 +227,29 @@ Las imágenes muestran:
 - Diagrama interno del sistema óptico  
 - Lista de parámetros medibles  
 
-Ya estaba incluido en el README anterior, pero:
+### ¿Qué revela?
+- Transiciones electrónicas  
+- Energía del bandgap (método de Tauc)  
+- Defectos, impurezas y centros de color  
+- Características de cromóforos en compuestos orgánicos  
 
-**Comentario:**  
-Debes añadir una referencia visual a “cómo funciona internamente el equipo” porque tus imágenes tienen un esquema completo de lentes, espejos y detectores.
+### Componentes básicos
+- Fuente de luz  
+- Monocromador  
+- Porta-muestras  
+- Detector  
+- (Opcional): configuración de doble haz para mayor precisión  
 
+### Parámetros de interés
+- Absorbancia  
+- Transmitancia  
+- Densidad óptica (DO)  
+- Pendiente del borde de absorción  
+
+**Investigar:**  
+- Curvas Tauc para semiconductores directos e indirectos  
+- Espectros UV–Vis de óxidos, semiconductores y nanopartículas  
+- Diferencias entre absorbancia y transmitancia  
 ---
 
 ## 13 y 14. Técnicas ópticas principales (reforzado con tus imágenes)
