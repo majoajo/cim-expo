@@ -59,6 +59,146 @@ mostrar una línea del tiempo con los hitos más importantes (Faraday → Curie 
 
 
 
+## 1. Importancia de la caracterización óptica
+
+La caracterización óptica permite estudiar materiales de forma **no destructiva**, detectando cambios en la luz después de interactuar con el material.  
+Estas variaciones revelan información sobre:
+
+- Estructura electrónica  
+- Enlaces y vibraciones atómicas  
+- Impurezas y defectos  
+- Tensiones internas  
+- Composición y espesores nanométricos  
+
+**Concepto clave:**  
+La luz es extremadamente sensible a cómo están distribuidos los electrones y cómo vibran los átomos; por eso, medir la interacción luz–materia entrega información profunda sin alterar la muestra.
+
+**Investigar:**  
+- Interacción luz–estructura electrónica  
+- Ventajas de una técnica no destructiva  
+- Comparación con métodos eléctricos, químicos y mecánicos  
+
+---
+
+## 2. Fenómenos ópticos fundamentales
+
+Toda técnica óptica se basa en uno o varios de estos fenómenos:
+
+- **Absorción:** indica transiciones electrónicas, fonones, impurezas y el bandgap.  
+- **Reflexión y refracción:** permiten obtener el índice de refracción (n).  
+- **Interferencia:** esencial para medir espesores en películas delgadas.  
+- **Esparcimiento:** revela desorden, rugosidad o partículas dispersas.  
+- **Luminiscencia:** emisión de luz que permite identificar defectos y niveles electrónicos.
+
+**Investigar:**  
+- Variación espectral de n y k  
+- Condición de interferencia: `mλ = 2nd`  
+- Diferencias entre esparcimiento Rayleigh y Raman  
+
+---
+
+## 3. Parámetros ópticos clave: n, k y α
+
+El comportamiento óptico se describe principalmente con tres parámetros:
+
+- **n:** índice de refracción → cambios en la velocidad de la luz  
+- **k:** coeficiente de extinción → absorción óptica  
+- **α:** coeficiente de absorción → atenuación exponencial dentro del material  
+
+La variación de n y k con la longitud de onda se conoce como **dispersión óptica** y diferencia materiales aislantes, semiconductores y conductores.
+
+**Ecuación importante:**  
+`α = 4πk / λ`
+
+**Investigar:**  
+- Dispersión normal vs. anómala  
+- Comportamiento en UV, visible e IR  
+- Representación experimental de n(λ) y k(λ)
+
+---
+
+## 4. Técnicas ópticas principales
+
+### Reflectancia / Transmitancia
+- Determinan el espectro de absorción  
+- Permiten obtener bandgap, fonones e impurezas  
+
+### Elipsometría
+- Mide el cambio en la polarización tras la reflexión  
+- Entrega n, k y espesor con precisión sub-nanométrica  
+- Fundamental para películas delgadas y semiconductores  
+
+### Fotoluminiscencia (PL)
+- La muestra emite luz al ser excitada  
+- Identifica niveles electrónicos, defectos, dopantes y calidad cristalina  
+
+### Infrarrojo (FT–IR)
+- Detecta vibraciones moleculares  
+- Revela enlaces químicos, fases y grupos funcionales  
+
+### Raman
+- Complementa al IR  
+- Permite medir tensiones mecánicas, simetría, fases cristalinas y desorden  
+
+**Investigar:**  
+- Espectros típicos: PL, IR, Raman, reflectancia  
+- Ejemplos reales de aplicación en materiales  
+
+---
+
+## 5. Aplicaciones de la caracterización óptica y nanomateriales
+
+La caracterización óptica es esencial en:
+
+- **Microelectrónica:** control de espesores de SiO₂ y nitruros  
+- **Energía solar:** análisis del bandgap en células solares (Si, perovskitas, calcogenuros)  
+- **Fotónica:** diseño de filtros, recubrimientos y espejos dieléctricos  
+- **Nanomateriales:** estudio de confinamiento cuántico y plasmones en nanopartículas  
+- **Polímeros y biomateriales:** análisis químico mediante FT–IR y Raman  
+- **Ciencia de superficies:** detección de corrosión, oxidación y delaminación  
+
+Los efectos ópticos en nanoescala permiten estudiar:
+
+- Cambios en el bandgap (confinamiento cuántico)  
+- Plasmones (resonancias electrónicas en metales)  
+- Variaciones de color según tamaño, forma o entorno de nanopartículas  
+
+**Investigar:**  
+- Casos industriales reales  
+- Variaciones de color en óxidos delgados (SiO₂/Si)
+
+---
+
+## 6. Espectrofotómetro UV–Vis
+
+El espectrómetro UV–Vis mide cuánta luz absorbe o transmite un material entre **190–900 nm**.
+
+### ¿Qué revela?
+- Transiciones electrónicas  
+- Energía del bandgap (método de Tauc)  
+- Defectos, impurezas y centros de color  
+- Características de cromóforos en compuestos orgánicos  
+
+### Componentes básicos
+- Fuente de luz  
+- Monocromador  
+- Porta-muestras  
+- Detector  
+- (Opcional): configuración de doble haz para mayor precisión  
+
+### Parámetros de interés
+- Absorbancia  
+- Transmitancia  
+- Densidad óptica (DO)  
+- Pendiente del borde de absorción  
+
+**Investigar:**  
+- Curvas Tauc para semiconductores directos e indirectos  
+- Espectros UV–Vis de óxidos, semiconductores y nanopartículas  
+- Diferencias entre absorbancia y transmitancia  
+
+---
+
 
 
 
