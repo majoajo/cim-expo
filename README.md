@@ -59,7 +59,7 @@ mostrar una línea del tiempo con los hitos más importantes (Faraday → Curie 
 
 
 
-## 1. Importancia de la caracterización óptica
+## 1 y 2. Importancia de la caracterización óptica
 
 La caracterización óptica permite estudiar materiales de forma **no destructiva**, detectando cambios en la luz después de interactuar con el material.  
 Estas variaciones revelan información sobre:
@@ -80,7 +80,7 @@ La luz es extremadamente sensible a cómo están distribuidos los electrones y c
 
 ---
 
-## 2. Fenómenos ópticos fundamentales
+## 3 y 4. Fenómenos ópticos fundamentales
 
 Toda técnica óptica se basa en uno o varios de estos fenómenos:
 
@@ -97,7 +97,7 @@ Toda técnica óptica se basa en uno o varios de estos fenómenos:
 
 ---
 
-## 3. Parámetros ópticos clave: n, k y α
+## 5 y 6. Parámetros ópticos clave: n, k y α
 
 El comportamiento óptico se describe principalmente con tres parámetros:
 
@@ -117,7 +117,7 @@ La variación de n y k con la longitud de onda se conoce como **dispersión ópt
 
 ---
 
-## 4. Técnicas ópticas principales
+## 7 y 8. Técnicas ópticas principales
 
 ### Reflectancia / Transmitancia
 - Determinan el espectro de absorción  
@@ -146,7 +146,7 @@ La variación de n y k con la longitud de onda se conoce como **dispersión ópt
 
 ---
 
-## 5. Aplicaciones de la caracterización óptica y nanomateriales
+## 9 y 10. Aplicaciones de la caracterización óptica y nanomateriales
 
 La caracterización óptica es esencial en:
 
@@ -169,7 +169,7 @@ Los efectos ópticos en nanoescala permiten estudiar:
 
 ---
 
-## 6. Espectrofotómetro UV–Vis
+## 11 y 12. Espectrofotómetro UV–Vis
 
 El espectrómetro UV–Vis mide cuánta luz absorbe o transmite un material entre **190–900 nm**.
 
