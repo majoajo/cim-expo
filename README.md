@@ -163,7 +163,23 @@ I_T = I_0 (1 - R)^2 e^{-\alpha x}
 Debes mencionar esta ecuación al hablar de absorción+reflectancia combinada.
 
 ---
+## algun numero . Parámetros ópticos clave: n, k y α
 
+El comportamiento óptico se describe principalmente con tres parámetros:
+
+- **n:** índice de refracción → cambios en la velocidad de la luz  
+- **k:** coeficiente de extinción → absorción óptica  
+- **α:** coeficiente de absorción → atenuación exponencial dentro del material  
+
+La variación de n y k con la longitud de onda se conoce como **dispersión óptica** y diferencia materiales aislantes, semiconductores y conductores.
+
+**Ecuación importante:**  
+`α = 4πk / λ`
+
+**Investigar:**  
+- Dispersión normal vs. anómala  
+- Comportamiento en UV, visible e IR  
+- Representación experimental de n(λ) y k(λ)
 ## 5 y 6. Transparencia y color de los materiales
 
 Las imágenes que enviaste profundizan en:
