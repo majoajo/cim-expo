@@ -278,18 +278,22 @@ Ya estaban incluidas, pero debes enfatizar:
 - Ecuaciones presentes en tus diapositivas
 
 ---
+## 15 y 16. Aplicaciones de la caracterización óptica y nanomateriales
 
-## 15 y 16. Aplicaciones de la caracterización óptica (extendida)
+La caracterización óptica es esencial en:
 
-Tus imágenes traen ejemplos adicionales:
+- **Microelectrónica:** control de espesores de SiO₂ y nitruros  
+- **Energía solar:** análisis del bandgap en células solares (Si, perovskitas, calcogenuros)  
+- **Fotónica:** diseño de filtros, recubrimientos y espejos dieléctricos  
+- **Nanomateriales:** estudio de confinamiento cuántico y plasmones en nanopartículas  
+- **Polímeros y biomateriales:** análisis químico mediante FT–IR y Raman  
+- **Ciencia de superficies:** detección de corrosión, oxidación y delaminación  
 
-- Coloración en materiales dopados  
-- Cambios de color por alteración del gap  
-- Transparencia por ausencia de absorción electrónica  
-- Materiales amorfos que presentan menor dispersión
+Los efectos ópticos en nanoescala permiten estudiar:
 
-**Comentario:**  
-Esto expande la sección de aplicaciones y debe mencionarse explícitamente con ejemplos.
+- Cambios en el bandgap (confinamiento cuántico)  
+- Plasmones (resonancias electrónicas en metales)  
+- Variaciones de color según tamaño, forma o entorno de nanopartículas  
 
 ---
 
