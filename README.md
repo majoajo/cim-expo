@@ -206,7 +206,20 @@ Esto **debe agregarse como sección propia** porque no estaba en el README previ
 
 ---
 
-## 7 y 8. Factores microestructurales que afectan el comportamiento óptico
+## 7 y 8. Luminiscencia (Fluorescencia y Fosforescencia)
+
+La imagen incluye:
+
+- Diagrama de bandas (valencia, conducción, defectos)  
+- Diferencia entre vida larga (>10⁻⁸ s) y corta (<10⁻⁸ s)  
+- Ejemplos cotidianos  
+
+**Comentario:**  
+Debe añadirse el contraste “fluorescencia vs fosforescencia”, ya que aparece explícitamente en tus diapositivas.
+
+---
+
+## 9 y 10. Factores microestructurales que afectan el comportamiento óptico
 
 Tus imágenes incluyen una lista muy importante:
 
@@ -222,18 +235,6 @@ Estos factores **deben agregarse como una sección independiente**, ya que influ
 
 ---
 
-## 9 y 10. Luminiscencia (Fluorescencia y Fosforescencia)
-
-La imagen incluye:
-
-- Diagrama de bandas (valencia, conducción, defectos)  
-- Diferencia entre vida larga (>10⁻⁸ s) y corta (<10⁻⁸ s)  
-- Ejemplos cotidianos  
-
-**Comentario:**  
-Debe añadirse el contraste “fluorescencia vs fosforescencia”, ya que aparece explícitamente en tus diapositivas.
-
----
 
 ## 11 y 12. Espectrofotómetro UV–Vis
 
